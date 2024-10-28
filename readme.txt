@@ -7,7 +7,7 @@
 
 ## Overview
 
-**Frontend Image Copy to Clipboard** allows users to easily copy images they see on the frontend of your WordPress site and paste them into any other applications, inputs, or editors, including WordPress posts, emails, documents, or social media. This plugin offers seamless user experience by enabling simple copy-paste actions for image content.
+**Frontend Image Copy to Clipboard** allows users to easily copy images they see on the frontend of your WordPress site and paste them into any other applications, inputs, or editors, including WordPress posts, emails, documents, or social media. This plugin offers seamless user experience by enabling simple copy and paste actions for image content.
 
 
 ## Features
