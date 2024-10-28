@@ -1,0 +1,32 @@
+.mwt-copy-container {
+    position: relative;
+    display: inline-block;
+}
+
+.mwt-copy-btn {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    padding: 5px 10px;
+    background-color: #0073aa;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.mwt-copy-btn:hover {
+    background-color: #005177;
+}
+.mwt-copy-btn {
+    transition: background-color 0.3s;
+}
+
+.mwt-copy-btn.copied {
+    background-color: #4caf50; /* Green for copied */
+}
+
+.mwt-copy-btn.failed {
+    background-color: #f44336; /* Red for failed */
+}
